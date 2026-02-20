@@ -83,12 +83,12 @@
 ## 📡 LIVE TELEMETRY (GITHUB STATS)
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vyshnav-mv&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshnav-mv&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MVVYSHNAV&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVVYSHNAV&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" />
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vyshnav-mv&theme=tokyo-night&hide_border=true&color=00F7FF&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MVVYSHNAV&theme=tokyo-night&hide_border=true&color=00F7FF&area=true" />
 </div>
 
 ---
